@@ -35,12 +35,12 @@ const Navbar = () => {
       <ul className="navbar-nav ms-auto mb-2 mb-lg-0 me-4">
       
         <li className="nav-item">
-          <NavLink className="nav-link" to="">
+          <NavLink className="nav-link" to="/">
             <button className='btn buttons2' style={{marginTop:'-20px' , marginBottom:'-15px'}}>Log in</button>
           </NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link " to="">
+          <NavLink className="nav-link " to="/">
           <button className="btn btn-outline-primary" style={{marginTop:'-20px' , marginBottom:'-15px'}}>
           Create Account
         </button>
