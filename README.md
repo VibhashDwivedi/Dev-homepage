@@ -5,9 +5,10 @@ A webpage similar to homepage of dev.to built using react
 Use `cd frontend` to make frontend as current directory
 
 Use `npm start` to run the app
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser
 
-[]Live Demo](https://vibhashdwivedi.github.io/Dev-homepage/)
+[Live Demo](https://vibhashdwivedi.github.io/Dev-homepage/)
 
 ## Screenshots
 
