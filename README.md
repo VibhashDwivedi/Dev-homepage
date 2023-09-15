@@ -1,5 +1,5 @@
 # Dev-homepage
-A webpage similar to homepage of dev.to built using react
+A webpage similar to homepage of [dev.to](https://dev.to/) built using react
 
 ## Command Used
 Use `cd frontend` to make frontend as current directory
