@@ -14,16 +14,16 @@ const Home = () => {
     <div  style={{backgroundColor:'lightcyan', marginTop:'50px'}}>
     <div className='container ' >
         <div className="row">
-            <div className="col-md-2 my-3">
+            <div className="col-md-3 my-3">
               <Left/>
 
 
             </div>
-            <div className="col-md-7 my-3">
+            <div className="col-md-6 my-3">
            <Home2/>
              
             </div>
-            <div className="col-md-3 my-3">
+            <div className="col-md-4 my-3">
              <Right/>
         </div>
     </div>
