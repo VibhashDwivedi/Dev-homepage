@@ -23,7 +23,7 @@ const Home = () => {
            <Home2/>
              
             </div>
-            <div className="col-md-4 my-3">
+            <div className="col-md-3 my-3">
              <Right/>
         </div>
     </div>
